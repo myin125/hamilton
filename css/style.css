@@ -22,7 +22,7 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: #325B41;
+    color: #FFFFFF;
 }
 
 .navbar {
@@ -31,7 +31,7 @@ body {
 }
 
 .navbar-default .navbar-brand {
-    color: #325B41;
+    color: #FFFFFF;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -110,7 +110,7 @@ img {
 	width:100%;
     background: #FFFFFF;
 	padding:5px;
-	margin:100px auto;
+	margin:25px auto;
 	text-align: center;
     height:100px;
 }
